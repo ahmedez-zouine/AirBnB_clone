@@ -10,6 +10,8 @@
 <h1 style="color: blue; font-size: 2em;">Data_daigram</h1>
 <img src="./images/Data_daigram.jpg" alt="Image description" title="Image Title" />
 </div>
+<br>
+<br>
 ___
 In The AirBnB clone project we aims to develop a command-line application that mimics the functionality of the popular online rental marketplace, AirBnB. The project focuses on building a command interpreter in Python to manage various objects within the AirBnB system, such as users, states, cities, and places.
 
